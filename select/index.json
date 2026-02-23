@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星を仰ぐ",
+  "base_artist": "菅田将暉",
+  "createdAt": "2026-02-23T13:13:50.797217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星を仰ぐ",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/01_星を仰ぐ_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星を仰ぐ - Hoshi wo aogu",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/02_星を仰ぐ_-_Hoshi_wo_aogu_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星を仰ぐ",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/03_星を仰ぐ_菅田将暉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星を仰ぐ",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_星を仰ぐ_菅田将暉.txt"
+    }
+  ]
+}
